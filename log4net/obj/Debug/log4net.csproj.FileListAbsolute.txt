@@ -1,0 +1,9 @@
+C:\Users\Vinicius\source\repos\log4net\log4net\bin\Debug\log4net.exe.config
+C:\Users\Vinicius\source\repos\log4net\log4net\bin\Debug\log4net.exe
+C:\Users\Vinicius\source\repos\log4net\log4net\bin\Debug\log4net.pdb
+C:\Users\Vinicius\source\repos\log4net\log4net\bin\Debug\log4net.dll
+C:\Users\Vinicius\source\repos\log4net\log4net\bin\Debug\log4net.xml
+C:\Users\Vinicius\source\repos\log4net\log4net\obj\Debug\log4net.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\source\repos\log4net\log4net\obj\Debug\log4net.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\log4net\log4net\obj\Debug\log4net.exe
+C:\Users\Vinicius\source\repos\log4net\log4net\obj\Debug\log4net.pdb

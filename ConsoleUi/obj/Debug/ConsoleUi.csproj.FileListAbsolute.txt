@@ -1,0 +1,9 @@
+C:\Users\Vinicius\source\repos\Log4Net\ConsoleUi\bin\Debug\ConsoleUi.exe.config
+C:\Users\Vinicius\source\repos\Log4Net\ConsoleUi\bin\Debug\ConsoleUi.exe
+C:\Users\Vinicius\source\repos\Log4Net\ConsoleUi\bin\Debug\ConsoleUi.pdb
+C:\Users\Vinicius\source\repos\Log4Net\ConsoleUi\obj\Debug\ConsoleUi.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Log4Net\ConsoleUi\obj\Debug\ConsoleUi.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Log4Net\ConsoleUi\obj\Debug\ConsoleUi.exe
+C:\Users\Vinicius\source\repos\Log4Net\ConsoleUi\obj\Debug\ConsoleUi.pdb
+C:\Users\Vinicius\source\repos\log4net\ConsoleUi\bin\Debug\log4net.dll
+C:\Users\Vinicius\source\repos\log4net\ConsoleUi\bin\Debug\log4net.xml
